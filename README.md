@@ -12,4 +12,4 @@ La page se rechargera si vous effectuez des modifications.
 ``npm run build``
 
 -----------------
-*Ce projet est issu de [ce tutoriel] (https://www.youtube.com/watch?v=ulOKYl5sHGk&t=1932s)*
+*Ce projet est issu de [ce tutoriel](https://www.youtube.com/watch?v=ulOKYl5sHGk&t=1932s)*
