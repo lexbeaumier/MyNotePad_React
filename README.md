@@ -1,8 +1,8 @@
-#Bloc Note
+# Bloc Note
 
 Dans le répertoire du projet, vous pouvez lancer
 
-``npm start```
+``npm start``
 
 Lance l'application en mode développement.
 Ouvrez http://localhost:3000 pour la visualiser dans le navigateur.
